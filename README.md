@@ -13,8 +13,8 @@ Olá! Eu sou Vinicius :)
 </div>
 
 <div>
-  <img align="center" alt="Vini-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vini-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">   
+  <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">   
 </div>
 
 ##
